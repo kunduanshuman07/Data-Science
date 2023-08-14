@@ -9,9 +9,7 @@
 
 ## Machine Learning 
 ### Google Colab Links:
-1. Data Preprocessing Tools with Python : https://colab.research.google.com/drive/1pxGIkkuACkti9tc-grCvayWVt9171xYt?usp=sharing
-2. Simple Linear Regression : https://colab.research.google.com/drive/1fCnGRZkSVhUHddCT1tmKH4EVDSeZoAnF?usp=sharing
-3. Multiple Linear Regression : https://colab.research.google.com/drive/1Pu1BJyx3Jb0V52LvyiCTPjMHiGrVF4-6?usp=sharing
+
 
 
 
