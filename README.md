@@ -11,5 +11,6 @@
 ### Google Colab Links:
 1. Data Preprocessing Tools : https://colab.research.google.com/drive/1K7vSL_sAxq0IXFTKbYc322y3848JuHTo?usp=sharing
 2. Simple Linear Regression : https://colab.research.google.com/drive/1MjYSktjNjqcX-lChvU1dI45osQML7vMX?usp=sharing
+3. Multiple Linear Regression : https://colab.research.google.com/drive/1oldqXV_kIDh7R7gvMCypxtjw9dHVbUco?usp=sharing
 
 
