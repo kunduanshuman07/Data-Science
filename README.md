@@ -17,3 +17,4 @@
 2. Simple Linear Regression : https://colab.research.google.com/drive/1MjYSktjNjqcX-lChvU1dI45osQML7vMX?usp=sharing
 3. Multiple Linear Regression : https://colab.research.google.com/drive/1oldqXV_kIDh7R7gvMCypxtjw9dHVbUco?usp=sharing
 4. Polynomial Linear Regression : https://colab.research.google.com/drive/1tiq-yGo93Nczxzz98N8VTqkZ1LfxGVne?usp=sharing
+5. Support Vector Regression : https://colab.research.google.com/drive/1xOoDAkG23ypTdUMKbijyxs_NA_MnjLAy?usp=sharing
