@@ -24,6 +24,11 @@
 **3. Classification :**
    1. Logistic Regression : https://colab.research.google.com/drive/1AezzSm7CPtXm-t9jDOBVJPSFL_qdid01?usp=sharing
    2. K-NN : https://colab.research.google.com/drive/1en4C9UwUvnvV6qw7mxA2PNXx1Kn3G-hR?usp=sharing
+   3. SVM : https://colab.research.google.com/drive/1RPbJca7llFm9XEKmai58iO9mIEZ3Rt6u?usp=sharing
+   4. Kernel-SVM : https://colab.research.google.com/drive/1AYj1kXG4tZyzg6wQYhw3r8P4iOqCIvIA?usp=sharing
+   5. Naive-Bayes : https://colab.research.google.com/drive/1B6xgH6-t9LYhvK_H7ECGadxqYTeX7sN_?usp=sharing
+   6. Decision Tree Classification : https://colab.research.google.com/drive/1wHI2WUIE5lm1iJJn_DYEzx5QDroDCgsb?usp=sharing
+   7. Random Forest Classification : https://colab.research.google.com/drive/15U7f5R8ZeYXk3GGvu3NCKn6wjoj19WvT?usp=sharing
    
 **4. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
