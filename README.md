@@ -13,10 +13,13 @@
 
 ### Google Colab Links:
 
-1. Data Preprocessing Tools : https://colab.research.google.com/drive/1K7vSL_sAxq0IXFTKbYc322y3848JuHTo?usp=sharing
-2. Simple Linear Regression : https://colab.research.google.com/drive/1MjYSktjNjqcX-lChvU1dI45osQML7vMX?usp=sharing
-3. Multiple Linear Regression : https://colab.research.google.com/drive/1oldqXV_kIDh7R7gvMCypxtjw9dHVbUco?usp=sharing
-4. Polynomial Linear Regression : https://colab.research.google.com/drive/1tiq-yGo93Nczxzz98N8VTqkZ1LfxGVne?usp=sharing
-5. Support Vector Regression : https://colab.research.google.com/drive/1xOoDAkG23ypTdUMKbijyxs_NA_MnjLAy?usp=sharing
-6. Decision Tree Regression : https://colab.research.google.com/drive/1wNxO-sbXiBYl2oUWkjH4V0leVI2n4gyF?usp=sharing
-7. Random Forest Regression : https://colab.research.google.com/drive/1e0zh0Sxb21eoj9HlUyU7SAzU-AWHJAMp?usp=sharing
+**1. Data Preprocessing Tools :** https://colab.research.google.com/drive/1K7vSL_sAxq0IXFTKbYc322y3848JuHTo?usp=sharing
+**2. Regression :**
+   1. Simple Linear Regression : https://colab.research.google.com/drive/1MjYSktjNjqcX-lChvU1dI45osQML7vMX?usp=sharing
+   2. Multiple Linear Regression : https://colab.research.google.com/drive/1oldqXV_kIDh7R7gvMCypxtjw9dHVbUco?usp=sharing
+   3. Polynomial Linear Regression : https://colab.research.google.com/drive/1tiq-yGo93Nczxzz98N8VTqkZ1LfxGVne?usp=sharing
+   4. Support Vector Regression : https://colab.research.google.com/drive/1xOoDAkG23ypTdUMKbijyxs_NA_MnjLAy?usp=sharing
+   5. Decision Tree Regression : https://colab.research.google.com/drive/1wNxO-sbXiBYl2oUWkjH4V0leVI2n4gyF?usp=sharing
+   6. Random Forest Regression : https://colab.research.google.com/drive/1e0zh0Sxb21eoj9HlUyU7SAzU-AWHJAMp?usp=sharing
+**3. Classification :**
+   1. Logistic Regression : https://colab.research.google.com/drive/1AezzSm7CPtXm-t9jDOBVJPSFL_qdid01?usp=sharing
