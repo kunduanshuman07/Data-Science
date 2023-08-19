@@ -23,6 +23,7 @@
    6. Random Forest Regression : https://colab.research.google.com/drive/1e0zh0Sxb21eoj9HlUyU7SAzU-AWHJAMp?usp=sharing
 **3. Classification :**
    1. Logistic Regression : https://colab.research.google.com/drive/1AezzSm7CPtXm-t9jDOBVJPSFL_qdid01?usp=sharing
+   2. K-NN : https://colab.research.google.com/drive/1en4C9UwUvnvV6qw7mxA2PNXx1Kn3G-hR?usp=sharing
    
 **4. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
