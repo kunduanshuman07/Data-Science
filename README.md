@@ -34,6 +34,7 @@
    
 **5. Clustering :**
    1. K-Means Clustering : https://colab.research.google.com/drive/1yLj-IigIFJrm9Ja00fHcZAxDKB55H2_6?usp=sharing
+   2. Hierarchical Clustering : https://colab.research.google.com/drive/1FkUQCz16JQ1HjNgPGQ0kNGclhYxuRYZ2?usp=sharing
 
 **4. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
