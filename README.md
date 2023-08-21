@@ -30,5 +30,8 @@
    6. Decision Tree Classification : https://colab.research.google.com/drive/1wHI2WUIE5lm1iJJn_DYEzx5QDroDCgsb?usp=sharing
    7. Random Forest Classification : https://colab.research.google.com/drive/15U7f5R8ZeYXk3GGvu3NCKn6wjoj19WvT?usp=sharing
    
+**5. Clustering :**
+   1. K-Means Clustering : https://colab.research.google.com/drive/1yLj-IigIFJrm9Ja00fHcZAxDKB55H2_6?usp=sharing
+
 **4. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
