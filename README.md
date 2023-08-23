@@ -38,6 +38,7 @@
 
 **6. Association Rules :**
    1. Apriori : https://colab.research.google.com/drive/1lqWRmBFK6VhDL1gP4fHmg8_YVFF5s4pt?usp=sharing
+   2. Eclat : https://colab.research.google.com/drive/1lqWRmBFK6VhDL1gP4fHmg8_YVFF5s4pt?usp=sharing
 
 **4. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
