@@ -43,5 +43,5 @@
 **7. Reinforcement Learning :**
    1. Upper Confidence Bound : https://colab.research.google.com/drive/1msInnwZl8LsT3ZoX7twVtci1RP3-nWcP?usp=sharing
 
-**4. Case studies :**
+**8. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
