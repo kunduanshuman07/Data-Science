@@ -44,6 +44,8 @@
    1. Upper Confidence Bound : https://colab.research.google.com/drive/1msInnwZl8LsT3ZoX7twVtci1RP3-nWcP?usp=sharing
    2. Thompson Sampling : https://colab.research.google.com/drive/14dZs6f8Ecc2ym60LYsQRDU5fqzHJI52S?usp=sharing   
 
+**8. Natural Language Processing :**
+   https://colab.research.google.com/drive/1t238wWi_OceTVf8NVofLiMSUrbHuu-jo?usp=sharing
 
-**8. Case studies :**
+**9. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
