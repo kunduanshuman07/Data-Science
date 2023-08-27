@@ -47,5 +47,8 @@
 **8. Natural Language Processing :**
    https://colab.research.google.com/drive/1t238wWi_OceTVf8NVofLiMSUrbHuu-jo?usp=sharing
 
+**9. Deep Learning :**
+   1. ANN : https://colab.research.google.com/drive/1x8Ty-lEPjxWFNI_r39mZBs4EPtJ__FOn?usp=sharing
+
 **9. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
