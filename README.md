@@ -49,6 +49,12 @@
 
 **9. Deep Learning :**
    1. ANN : https://colab.research.google.com/drive/1x8Ty-lEPjxWFNI_r39mZBs4EPtJ__FOn?usp=sharing
+   2. Convolutional Neural Networks 
+
+**10. Dimensionality Reduction :**
+   1. PCA
+   2. LDA
+   3. Kernel PCA
 
 **9. Case studies :**
    1. Breast Cancer Case Study : https://colab.research.google.com/drive/1L44hMtKVYKI-tdAs3LvoX00xIoSEp_XS?usp=sharing
